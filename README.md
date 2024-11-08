@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okworhn
 - 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... Softwware Engineering with ALX
-- 💞️ I’m looking to collaborate on ...Learnig C
+- 🌱 I’m currently learning ... Software Engineering with ALX
+- 💞️ I’m looking to collaborate on ... Learning Python
 - 📫 How to reach me ...+234 817 9866 078
 
 <!---
